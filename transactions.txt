@@ -1,0 +1,5 @@
+1 Deposit 40000Frw 2022-07-14
+2 Withdrawal 2300Frw 2022-08-02
+3 Withdrawal 1800Frw 2022-08-21
+4 Deposit 1100Frw 2022-08-30
+5 Withdrawal 8215Frw 2022-09-01
